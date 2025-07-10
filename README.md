@@ -1,8 +1,3 @@
-bin/
-obj/
-node_modules/
-build/
-dist/
 <table>
   <tr>
     <td align="center">C# / ASP.NET<br/>⚙️</td>
